@@ -1,8 +1,5 @@
 # readme
-The detailed intro of the StaPay
-以下是适合在 GitHub 上发布的 StaPay 详细介绍中文版，包括格式和详细信息：
-
----
+想要视频了解的朋友可以点这里：https://youtube-web3.vercel.app/ 
 
 # **StaPay：通过质押革新支付方式**
 
