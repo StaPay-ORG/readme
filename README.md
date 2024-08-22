@@ -99,5 +99,3 @@ git clone https://github.com/your-username/stapay.git
 StaPay 是开源项目，遵循 MIT 许可协议。有关详细信息，请参阅 [LICENSE](./LICENSE) 文件。
 
 ---
-
-这个版本是为 GitHub Markdown 格式定制的，包括标题、代码块、列表和链接等。可以根据 StaPay 项目的具体情况进行调整。
